@@ -1,0 +1,52 @@
+{
+    "mydata": [
+        {
+            "userName": "dhyey_patel",
+            "fullName": "Dhyey Patel",
+            "email": "dhyey@gmail.com",
+            "phoneNumber": 8160895719
+        },
+        {
+            "userName": "het_patel",
+            "fullName": "het Patel",
+            "email": "het@gmail.com",
+            "phoneNumber": 8160895719
+        },
+        {
+            "userName": "vishal_patel",
+            "fullName": "vishal Patel",
+            "email": "vishal@gmail.com",
+            "phoneNumber": 8160895719
+        },
+        {
+            "userName": "jay_patel",
+            "fullName": "jay Patel",
+            "email": "jay@gmail.com",
+            "phoneNumber": 8160895719
+        },
+        {
+            "userName": "kaushal_patel",
+            "fullName": "kaushal Patel",
+            "email": "kaushal@gmail.com",
+            "phoneNumber": 8160895719
+        },
+        {
+            "userName": "neel_patel",
+            "fullName": "neel Patel",
+            "email": "neel@gmail.com",
+            "phoneNumber": 8160895719
+        },
+        {
+            "userName": "parth_patel",
+            "fullName": "parth Patel",
+            "email": "parth@gmail.com",
+            "phoneNumber": 8160895719
+        },
+        {
+            "userName": "raj_patel",
+            "fullName": "raj Patel",
+            "email": "raj@gmail.com",
+            "phoneNumber": 8160895719
+        }
+    ]
+}

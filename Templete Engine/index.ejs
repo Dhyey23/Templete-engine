@@ -1,0 +1,42 @@
+<html>
+  <head>
+    <title>JSON File Data</title>
+    <style>
+      * { font-family: Calibri; font-size: 20px; }
+      table, th, td {
+        border: solid 1px #bb1d1d;
+        border-collapse: collapse;
+        padding: 2px 3px;
+        text-align: center;
+      }
+      
+      
+    </style>
+  </head>
+  <body>
+     <h1>User Data</h1>
+  
+    <table>
+      <thead>
+        <tr>
+          <th>User Name <br></th>
+          <th>Full Name</th>
+          <th>Email</th>
+          <th>Phone Number</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% for(var i = 0; i < mydata.length; i++) { %>
+          <tr>
+            <td><%= mydata[i].userName %></td>
+            <td><%= mydata[i].fullName %></td>
+            <td><%= mydata[i].email %></td>
+            <td><%= mydata[i].phoneNumber %></td>
+          </tr>
+        <% } %>
+      </tbody>
+    </table>
+  </body>
+</html>
+
+ 
